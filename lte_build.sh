@@ -1,0 +1,2 @@
+export  BOARD=ssc338q_wifilink2_fpv_lte_defconfig
+make
